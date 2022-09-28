@@ -1,6 +1,4 @@
-##### Stock Analysis
-
-
+# Stock Analysis
 
 ### Overview of Project:
 
