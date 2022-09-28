@@ -1,4 +1,4 @@
-###Overview of Project:
+###--Overview of Project:
 
 This Workbook was designed to analyze the entire stock market over the last few years. The original code includes a run button that runs an analysis for all of the stocks that includes a total volume and a Return percentage. The refactored code asks for user input specifying which year results need to be displayed, runs an analysis for the year typed into the message box, then displays a run time. The purpose of this project was to refactor the code to shorten the time it takes to run the analysis.
 
