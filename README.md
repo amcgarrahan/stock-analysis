@@ -7,8 +7,8 @@ Results:
 The original code with the run button took a whole 3 seconds to display the results. The newly refactored code took less than a second for both 2017 and 2018, as displayed in the images below:
 
 
-<center><img width="432" alt="Screenshot (2)" src="https://user-images.githubusercontent.com/110629852/192702660-498568a6-25f5-409b-8a18-ac648c76a4bf.png">
-<center><img width="435" alt="Screenshot (3)" src="https://user-images.githubusercontent.com/110629852/192702663-b4eff595-9f54-49d6-b228-a100ab0f5c85.png">
+<center><img width="432" alt="Screenshot (2)" src="https://user-images.githubusercontent.com/110629852/192702660-498568a6-25f5-409b-8a18-ac648c76a4bf.png"></center>
+<center><img width="435" alt="Screenshot (3)" src="https://user-images.githubusercontent.com/110629852/192702663-b4eff595-9f54-49d6-b228-a100ab0f5c85.png"></center>
 
 
 
